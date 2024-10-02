@@ -1,9 +1,3 @@
-Certainly, I'll create a README markdown for a project that uses a diffusion model to generate aurora borealis images. I'll include a reference to "0049.png" as a showcase image. Here's the markdown content:
-
-
-
-
-
 # Aurora Borealis Diffusion Model
 
 Generate stunning aurora borealis images using a state-of-the-art diffusion model.
